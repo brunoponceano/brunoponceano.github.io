@@ -64,10 +64,11 @@ a:hover {
 
 @media only screen and (max-width: 1024px) {
 	body {
+		word-wrap: break-word;
+		overflow-wrap: break-word;
 		-webkit-hyphens: auto;
 		-moz-hyphens: auto;
-		-ms-hyphens: auto;
-		hyphens: auto;
+        hyphens: auto;
 	}
 
 @media only screen and (max-width: 500px) {
