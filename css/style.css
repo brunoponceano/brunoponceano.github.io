@@ -94,4 +94,9 @@ a:hover {
 		border-color: #000;
 		border-width: 3px;
 	}
+	a:hover {
+  -webkit-text-fill-color: #ccff00;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
 }
