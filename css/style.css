@@ -17,7 +17,6 @@ p {
 
 
 .buttons-container {
-	max-width: 1080px;
 	margin-top: 36px;
 }
 
@@ -32,6 +31,7 @@ button {
 	border-radius: 56px;
 	padding: 12px 36px;
 	margin-top: 16px;
+	color: #000 !important;
 
 }
 
@@ -85,6 +85,7 @@ a:hover {
 		border-radius: 56px;
 		padding: 8px 24px;
 		margin-top: 12px;
+		color: #000 !important;
 	}
 	button:hover {
 		background: #000;
