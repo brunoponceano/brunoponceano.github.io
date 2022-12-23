@@ -37,7 +37,7 @@ button {
 
 button:hover {
 	background: #000;
-	color: #ccff00;
+	color: #ccff00 !important;
 	cursor: pointer;
 	border: solid;
 	border-color: #000;
@@ -89,7 +89,7 @@ a:hover {
 	}
 	button:hover {
 		background: #000;
-		color: #ccff00;
+		color: #ccff00 !important;
 		cursor: pointer;
 		border: solid;
 		border-color: #000;
