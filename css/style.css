@@ -2,7 +2,8 @@ body {
 	font-family: 'Arial', 'sans-serif';
 	font-size: 4em;
 	color: #000;
-	background-color: #ccff00;
+/* 	background-color: #ccff00; */
+	background-image: radial-gradient(red, green, blue);
 }
 
 .content {
@@ -37,7 +38,8 @@ button {
 
 button:hover {
 	background: #000;
-	color: #ccff00 !important;
+/* 	color: #ccff00 !important; */
+	color: blue !important;
 	cursor: pointer;
 	border: solid;
 	border-color: #000;
