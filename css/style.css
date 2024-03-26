@@ -73,7 +73,7 @@ a:hover {
 
 @media only screen and (max-width: 500px) {
 	body {
-		font-size: 1.8em;
+		font-size: 1.7em;
 		-webkit-hyphens: auto;
 		-ms-hyphens: auto;
 		hyphens: auto;
@@ -89,7 +89,8 @@ a:hover {
 	}
 	button:hover {
 		background: #000;
-		color: #ccff00 !important;
+/* 		color: #ccff00 !important; */
+		color: blue !important;
 		cursor: pointer;
 		border: solid;
 		border-color: #000;
