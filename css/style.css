@@ -39,13 +39,13 @@ button {
 }
 
 button:hover {
-	background: white;
+	background: black;
 /* 	color: #ccff00 !important; */
 /* 	color: #028001 !important; */
-	color: black !important;
+	color: white !important;
 	cursor: pointer;
 	border: solid;
-	border-color: white;
+	border-color: black;
 	border-width: 5px;
 }
 
