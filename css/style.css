@@ -1,9 +1,11 @@
 body {
 	font-family: 'Arial', 'sans-serif';
 	font-size: 4em;
-	color: #000;
+/* 	color: #000; */
 /* 	background-color: #ccff00; */
-	background-image: radial-gradient(red, green, blue);
+/* 	background-image: radial-gradient(red, green, blue); */
+	background-color: black;
+	color: white;
 }
 
 .content {
@@ -32,17 +34,19 @@ button {
 	border-radius: 56px;
 	padding: 12px 36px;
 	margin-top: 16px;
-	color: #000 !important;
+/* 	color: #000 !important; */
+	color: white !important;
 
 }
 
 button:hover {
-	background: #000;
+	background: white;
 /* 	color: #ccff00 !important; */
-	color: #028001 !important;
+/* 	color: #028001 !important; */
+	color: black;
 	cursor: pointer;
 	border: solid;
-	border-color: #000;
+	border-color: white;
 	border-width: 5px;
 }
 
@@ -51,7 +55,7 @@ button:focus {
 }
 
 a {
-	color: #000;
+	color: white;
 }
 
 a:hover {
